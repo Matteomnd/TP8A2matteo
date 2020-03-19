@@ -23,7 +23,7 @@ class Rectangle :
     def setY(self,y):
         self.__y=y
 
-    def setHeight(self, height):
+    def setHeight(self, heightt):
         self.__height=height
 
     def setWidth(self,width):
