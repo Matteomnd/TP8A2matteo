@@ -1,6 +1,6 @@
 class Circle :
     def __init__(self,radius,x,y):
-        self.__radius = radius
+        self.__radius = radiusss
         self.__x=x
         self.__y=y
 
