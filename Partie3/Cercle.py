@@ -11,7 +11,7 @@ class Circle :
         return self.__y
 
     def getRadius(self):
-        return self.__radius
+        return self.__radiusss
 
     def setX(self,x):
         self.__x=x
